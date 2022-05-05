@@ -1,10 +1,10 @@
 {
-  "name": "banana",
-  "version": "0.0.4",
+  "name": "tangzy-super--banana",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "tangzeyong <tang.z.y@foxmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/banana.js",
   "directories": {
     "lib": "lib",
