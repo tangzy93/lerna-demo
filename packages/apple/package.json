@@ -17,7 +17,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "banana": "^0.0.3"
+    "banana": "^0.0.0",
+    "tangzy-super--banana": "^0.0.5"
   },
   "gitHead": "290a2196e55b8f80870e0f8c20eef58539b9627e"
 }
